@@ -6,7 +6,7 @@ use h4kuna\Fio,
 	h4kuna\Fio\Account,
 	h4kuna\Fio\Utils,
 	Iterator,
-	Nette\Utils\DateTime;
+	h4kuna\Fio\Utils\DateTime;
 
 /**
  * @author Milan Matějček
